@@ -1,24 +1,28 @@
 SQL Data Analysis Project
-This repository contains SQL scripts created to perform business-style data analysis on structured datasets.
-The project focuses on analyzing customer data, trends over time, cumulative metrics, and segmentation using SQL.
+
+This project focuses on analyzing structured business data using SQL.
+The data was imported from Excel, cleaned using Python, and analyzed mainly using SQL.
 
 Tools Used
-* SQL (MySQL compatible)
-* Relational Database
 
-Files Overview
-* data types.sql � Checks and validates data types before analysis
-* build customer report.sql � Creates customer-level summary reports
-* change over time trands.sql � Analyzes performance changes over time
-* cumulative analysis.sql � Calculates cumulative values and running totals
-* data segmetation.sql � Segments data based on business conditions
+(1) Excel – Data source
+(2) Python – Data cleaning and EDA
+(3) SQL (MySQL) – Data analysis
 
-Key Concepts
-* Joins and aggregations
-* Date-based trend analysis
-* Cumulative analysis
-* Data segmentation
+Project Workflow
+
+(1) Data imported from Excel files
+(2) Data cleaned and prepared using Python
+(3) Analysis performed using SQL queries
+(4) Insights generated through reports and trends
+
+Analysis Covered
+
+(a) Customer-level reports
+(b) Change-over-time trend analysis
+(c) Cumulative analysis and running totals
+(d) Data segmentation based on business rules
 
 Objective
-To demonstrate SQL-based data analysis skills by answering real business questions and generating meaningful insights.
 
+To demonstrate end-to-end data analysis with a strong focus on SQL-driven business insights.
